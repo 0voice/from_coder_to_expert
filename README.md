@@ -7,4 +7,4 @@
 
 资料整理不易，如果有收获，欢迎打赏。
 
-![image](https://github.com/0voice/from_coder_to_expert/blob/master/AliPay.jpg)  ![image](https://github.com/0voice/from_coder_to_expert/blob/master/WeChatPay.jpg)
+![image](https://github.com/0voice/from_coder_to_expert/blob/master/AliPay.jpg=300x400)  ![image](https://github.com/0voice/from_coder_to_expert/blob/master/WeChatPay.jpg=300x400)

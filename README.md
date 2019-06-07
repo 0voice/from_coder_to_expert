@@ -7,5 +7,4 @@
 
 资料整理不易，如果有收获，欢迎打赏。
 
-![image](https://github.com/0voice/from_coder_to_expert/blob/master/alipay.png)
-![image](https://github.com/0voice/from_coder_to_expert/blob/master/weixinpay.png)
+![image](https://github.com/0voice/from_coder_to_expert/blob/master/Pay.jpg)

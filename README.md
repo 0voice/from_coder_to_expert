@@ -121,9 +121,5 @@
 <br/>
 
 
-#### 专家架构交流3群：783153655
+#### 相应视频加入 专家架构交流3群：783153655
 #### 若群已满，添加QQ：469254771 , 备注github
-
-资料整理不易，欢迎打赏。
-
-![image](https://github.com/0voice/from_coder_to_expert/blob/master/Pay.jpg)

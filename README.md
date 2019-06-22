@@ -78,6 +78,9 @@
 ##### 互联网对传统企业应用架构
 ##### 基于Kafka-Spark Streaming的数据处理系统及测试
 ##### 交互式直播推流编码器的设计
+##### Elasticsearch实时高效聚合计算应用实践
+##### 腾讯Elasticsearch大规模实践
+##### 阿里云Elasticsearch架构解析与性能优化实践
 ##### Go在区块链的发展和演进
 ##### NSQ-重塑之路
 ##### Aliyun ApasaDB Go 微服务架构

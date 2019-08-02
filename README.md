@@ -132,6 +132,7 @@
 
 
 #### 获取大牛视频资料，专家架构交流3群：783153655
+#### C/C++ Linux技术交流群：762073882
 #### 若群已满，添加QQ：936204305, 备注github
 #### 关注公众号，更多权威架构设计方案。 另附企业内推，架构设计资料，相关视频资料
 ![image](https://github.com/0voice/interview_internal_reference/blob/master/arch.jpg)

@@ -135,7 +135,7 @@
 
 ---
 
-**每天晚上8点免费技术分享直播，扫码即可加入，小姐姐给你发每天的直播链接，备注github面试**
+**每天晚上8点免费技术分享直播，扫码即可加入，小姐姐给你发每天的直播链接，备注github文档**
 
 ![image](https://github.com/0voice/interview_internal_reference/blob/master/contact.jpg)
 

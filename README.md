@@ -138,6 +138,7 @@
 **每天晚上8点免费技术分享直播，扫码即可加入，小姐姐给你发每天的直播链接，备注github文档**
 **直播内容：C/C++，Linux，Nginx，ZeroMQ，MySQL，Redis，fastdfs，MongoDB，ZK，流媒体，CDN，P2P，K8S，Docker，TCP/IP，协程，DPDK等等多个知识点技术分享**
 
-![image](https://www.0voice.com/uiwebsite/img/barcode/cz.jpg)
+![贝贝二维码](https://user-images.githubusercontent.com/87457873/128681718-86f959ba-7a9a-4968-b107-3d3cdb939930.png)
+
 
 
